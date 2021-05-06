@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    background-color: blue;
+}
+div{
+    margin-top: 15px;
+    
+}
+.img-section{
+    display: flex;
+    justify-content: center;
+}  
+img{
+    width: 400px;
+    height: 300px;
+}
+.sectionstyle{
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: white;
+}
+h1{
+    color:white;
+}
